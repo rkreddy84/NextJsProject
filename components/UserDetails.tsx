@@ -15,8 +15,7 @@ const UserDetails = ({users}) => {
                         <a href={`/user/${user.id}`}>know more</a>
                        </div>)
                    }
-                
-            </div>
+             </div>
         </main>
     </div>
   )

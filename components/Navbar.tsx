@@ -1,8 +1,6 @@
 import React from 'react'
 import styles from '../components/Navbar.module.scss';
 
-
-
 const Navbar = () => {
   return (
     <div className={styles.mainNavbar}>
